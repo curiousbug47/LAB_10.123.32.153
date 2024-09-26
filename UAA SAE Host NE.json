@@ -8,7 +8,7 @@
       },
       "timezone": "UTC",
       "isPeriodicConnectEnabled": true,
-      "reconnectInterval": 30,
+      "reconnectInterval": 50,
       "reconnectIntervalUnits": "DAYS"
     },
     "snmp": {
